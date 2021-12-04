@@ -52,11 +52,11 @@ export default function Home() {
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
     <p className="object-cover font-bold object-center">Personal</p>
-    <h1 className=" object-cover object-center title-font sm:text-8xl text-8xl mb-4 font-medium text-gray-900">
-      Our most
-        <br className="hidden lg:inline-block" />
-        personal
-        <br className="hidden lg:inline-block" />
+    <h1 className=" object-cover object-center title-font sm:text-7xl md:text-8xl text-6xl mb-4 font-medium text-gray-900">
+      Our most  
+        <br className=" lg:inline-block" />
+        personal 
+        <br className="lg:inline-block" />
         OS yet.
       </h1>
      
@@ -79,11 +79,11 @@ export default function Home() {
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
     <p className="object-cover font-bold object-center">Material you</p>
-    <h1 className=" object-cover object-center title-font sm:text-7xl text-7xl mb-4 font-medium text-gray-900">
+    <h1 className=" object-cover object-center title-font sm:text-7xl md:text-7xl lg:text-8xl text-6xl mb-4 font-medium text-gray-900">
       A boundary-
-        <br className="hidden lg:inline-block" />
+        <br className="lg:inline-block" />
         pushing
-        <br className="hidden lg:inline-block" />
+        <br className=" lg:inline-block" />
         redesign
       </h1>
      
